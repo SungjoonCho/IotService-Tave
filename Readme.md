@@ -1,6 +1,6 @@
 
-## 홈 IoT 서비스 using by Arduino & Raspberry Pi (조장: 조성준, 조원: 박상범) - 2019.05.18
-
+## 홈 IoT 서비스 using by Arduino & Raspberry Pi - 2019.05.18
+## 조성준, 박상범
 
 
 1. 작품 제목
