@@ -3,6 +3,10 @@
 ## 조성준, 박상범
 
 Video : https://drive.google.com/drive/folders/1SHKx7BbS6Tp8XMI0twP9qJsLw6RnZVKr?usp=sharing
+<p align="center">
+  <img width=700 src="https://user-images.githubusercontent.com/80872528/117564122-65fcd580-b0e5-11eb-9ef5-217a646b4206.png">
+</p>
+
 
 1. 작품 제목
 <pre>
