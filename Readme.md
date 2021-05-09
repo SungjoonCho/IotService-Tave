@@ -1,5 +1,5 @@
 
-## 홈 IoT 서비스 using by Arduino & Raspberry Pi - 2019.05.18
+## 홈 IoT 서비스 using by Arduino & Raspberry Pi - 2019.05.25
 ## 조성준, 박상범
 
 Video : https://drive.google.com/drive/folders/1SHKx7BbS6Tp8XMI0twP9qJsLw6RnZVKr?usp=sharing
