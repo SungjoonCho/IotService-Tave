@@ -4,7 +4,7 @@
 
 Video : https://drive.google.com/drive/folders/1SHKx7BbS6Tp8XMI0twP9qJsLw6RnZVKr?usp=sharing
 <p align="center">
-  <img width=700 src="https://user-images.githubusercontent.com/80872528/117564122-65fcd580-b0e5-11eb-9ef5-217a646b4206.png">
+  <img width=1000 src="https://user-images.githubusercontent.com/80872528/117564122-65fcd580-b0e5-11eb-9ef5-217a646b4206.png">
 </p>
 
 
